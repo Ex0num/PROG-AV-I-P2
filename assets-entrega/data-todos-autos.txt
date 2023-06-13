@@ -1,0 +1,232 @@
+{
+    "nombre": "McQueen", 
+    "apodo": "Stickers", 
+    "actor_voz_original": "Owen Wilson",
+    "color_principal": "rojo",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1zE62L7HIIoMjQ8r_reYjto8potGFfJlE/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1heWuwBvTNggR8SgSIn3uR3Y6FQo3kDNJ/view?usp=sharing",
+    "marca_real": "Chevrolet",
+    "modelo_real": "Corvette C5R"
+},
+{
+    "nombre": "Sally", 
+    "apodo": "Sal", 
+    "actor_voz_original": "Bonnie Hunt",
+    "color_principal": "celeste",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1_bqmtBgSIq4_4sCwLAcZsWKlZRZTxtHU/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1FKHT3FnT9zuYUIO63i6JEkZ_bYqDX7Bm/view?usp=sharing",
+    "marca_real": "Porsche",
+    "modelo_real": "Carrera 911 2002"
+},
+{
+    "nombre": "Sir Tow Mater", 
+    "apodo": "Tow Mater", 
+    "actor_voz_original": "Larry the Cable Guy",
+    "color_principal": "marron",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1oBt3fYU91zUXQYwQ_pvXPtGEJGtMq8ya/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/11e7gz4YRc4i6jFcORSVRlXXSH5zqQyCW/view?usp=sharing",
+    "marca_real": "Chevrolet",
+    "modelo_real": "3100 1955"
+},
+{
+    "nombre": "Doc Hudson", 
+    "apodo": "The Fabulous Hudson Hornet", 
+    "actor_voz_original": "Clarence Nash",
+    "color_principal": "azul",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1ON5wUSvksgQAgOzfnPmgfK-qufoM0V4N/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1DoZ1zIv0Q98rY91Mq3WQhdEalsiaD0oU/view?usp=sharing",
+    "marca_real": "Hudson Hornet",
+    "modelo_real": "1951"
+},
+{
+    "nombre": "Sheriff", 
+    "apodo": "Officer", 
+    "actor_voz_original": "Michael Wallis",
+    "color_principal": "negro",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1XN42LAacZtR4uj9kKyPPE9okoRxZj6qf/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1qcuKdPh-YI2roqUS6Mbchv1vs8h3Qhd9/view?usp=sharing",
+    "marca_real": "Mercury Club",
+    "modelo_real": "Coupe 1949"
+},
+{
+    "nombre": "Ramone", 
+    "apodo": "Young Lemon", 
+    "actor_voz_original": "Cheech Marin",
+    "color_principal": "violeta",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1By4WQSc6cnYdhWvZSyIy1KUezUrw4CVz/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1CpiESlVOHbJ9vOYOcTPYgQcdNCPs-v9H/view?usp=sharing",
+    "marca_real": "Chevrolet",
+    "modelo_real": "Impala 1959"
+},
+{
+    "nombre": "Flo", 
+    "apodo": "Baby", 
+    "actor_voz_original": "Jenifer Lewis",
+    "color_principal": "verde",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1ZWFDldthG9RnOHog1Lf5x6dtcR4vF0E0/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1oeG7Tj_dPD-tViFLo7FoFPXc8WeI2Ufl/view?usp=sharing",
+    "marca_real": "Motorama Show Car",
+    "modelo_real": "General Motors 1957"
+},
+{
+    "nombre": "Sarge", 
+    "apodo": "Man", 
+    "actor_voz_original": "Paul Dooley",
+    "color_principal": "verde",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1qg6wpGI59DqEcdBM1m8RIgmBqVACgS7T/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/17viFpxleASvNGA3w_t7aq0PKRZZ7lUPm/view?usp=sharing",
+    "marca_real": "Willys",
+    "modelo_real": "2nd World War"
+},
+{
+    "nombre": "Fillmore", 
+    "apodo": "Hippie", 
+    "actor_voz_original": "George Carlin",
+    "color_principal": "verde",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/12b44dudU3ZsQeKnlR8lv6N7kpwE-_LDW/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1cuw6dYAzP-cLVX8LyUrvAHOUkEdD911l/view?usp=sharing",
+    "marca_real": "Volkswagen",
+    "modelo_real": "T1"
+},
+{
+    "nombre": "Lizzie", 
+    "apodo": "Crazy old devil woman", 
+    "actor_voz_original": "Katherine Helmond",
+    "color_principal": "negro",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/13SqJCPfit5YrqfAdFaP-HcrVFYorGnFU/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1o4BpaSjMfo2hBryPriKdG7gusGJcGhcv/view?usp=sharing",
+    "marca_real": "Ford",
+    "modelo_real": "T 1923"
+},
+{
+    "nombre": "Luigi", 
+    "apodo": "Tire shop owner", 
+    "actor_voz_original": "Tony Shalhoub",
+    "color_principal": "amarillo",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1F_rzC6CB877Oo-qVpvsqkh9qJfKd2Lce/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1ZWzaMFxHk6FmBf3qkzOnAu7SA_cxMBZX/view?usp=sharing",
+    "marca_real": "Fiat",
+    "modelo_real": "500 1957"
+},
+{
+    "nombre": "Guido", 
+    "apodo": "Shrimpie Tiny", 
+    "actor_voz_original": "Guido Quaroni",
+    "color_principal": "celeste",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/19_jE-ud4_GknWfWhOhrnfpKSQgpstVPp/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1ziHiDH_1ttUtQKBNPmG7lmTIQ1qITWbG/view?usp=sharing",
+    "marca_real": "Peel",
+    "modelo_real": "P50"
+},
+{
+    "nombre": "Mack", 
+    "apodo": "Nodder", 
+    "actor_voz_original": "John Ratzenberger",
+    "color_principal": "rojo",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1iuKdspNOvBAm7Sp15yjTfCPN5C2bqsEL/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1ELkZd3269KrzlZ2Dlp1IAYFYo5Goh82H/view?usp=sharing",
+    "marca_real": "Mack",
+    "modelo_real": "Super Liner 1980"
+},
+{
+    "nombre": "Chick Hicks", 
+    "apodo": "The runner-up Thunder", 
+    "actor_voz_original": "Michael Keaton",
+    "color_principal": "verde",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1gog_uQ6AsydlORvXZvuIwn4tc_JTGcX7/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/19KaYkkG9e2sBrvWqpIIaepp9nsx_Z_6S/view?usp=sharing",
+    "marca_real": "Buick Regal",
+    "modelo_real": "GNX 1986"
+},
+{
+    "nombre": "Strip Weathers", 
+    "apodo": "The King", 
+    "actor_voz_original": "Richard Petty",
+    "color_principal": "celeste",
+    "es_personaje_principal": true,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1wk9dIqFhiMCD5Zv1h-KwD_0TeihWvarZ/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1s4_91iTLM4dTAKt6gHm7EC02ibtv7UaQ/view?usp=sharing",
+    "marca_real": "Dodge",
+    "modelo_real": "Charger Daytona 1969"
+},
+{
+    "nombre": "Darrel Cartrip", 
+    "apodo": "", 
+    "actor_voz_original": "Darrel Waltrip",
+    "color_principal": "naranja",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/12VHcj1KNVFfBCjySkVZaBWl4wmo98hYo/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1X0-NnD1m3w8LTMtrz7pxSDwnVOYlrxnU/view?usp=sharing",
+    "marca_real": "Chevrolet",
+    "modelo_real": "Monte Carlo 1977"
+},
+{
+    "nombre": "Bob Cutlass", 
+    "apodo": "", 
+    "actor_voz_original": "Bob Costas",
+    "color_principal": "gris",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1cUgUZJlJjMLm-JBcciWRVa5XWWQfBotI/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1QTJUuByv1jjGiBWOQu0x99hk0jqDwbaL/view?usp=sharing",
+    "marca_real": "Oldsmobile",
+    "modelo_real": "Cutlass 1999"
+},
+{
+    "nombre": "Tex Dinoco", 
+    "apodo": "", 
+    "actor_voz_original": "HA Humpy Wheeler",
+    "color_principal": "amarillo",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1Iu09TkGef-qQPIE2cMSSUviRMDQzQXVA/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1ZD-H0SSrJaOxj4lD_ICmp1a8ajVocGex/view?usp=sharing",
+    "marca_real": "Cadillac",
+    "modelo_real": "Coupe de Ville 1975"
+},
+{
+    "nombre": "Snot Rod", 
+    "apodo": "", 
+    "actor_voz_original": "Lou Romano",
+    "color_principal": "naranja",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/18vFwG6Wl2LkZok97zu_Ah06HX4VN7zVD/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/1x2CG-OZGVARh-O6HCGs50oNekJ1zDyaz/view?usp=sharing",
+    "marca_real": "Dodge",
+    "modelo_real": "Challenger R/T 1970"
+},
+{
+    "nombre": "Mia and Tia", 
+    "apodo": "Girls", 
+    "actor_voz_original": "Lindsey Collins, Elissa Knight",
+    "color_principal": "rojo",
+    "es_personaje_principal": false,
+    "link_foto_auto_pelicula": "https://drive.google.com/file/d/1b5am2YhQgPw8HtYk_k42TMwAlN-FC_7W/view?usp=sharing",
+    "link_foto_auto_realidad": "https://drive.google.com/file/d/18z-p3wmpgtpgb-2w4epn2SA7uqwZAhzV/view?usp=sharing",
+    "marca_real": "Mazda",
+    "modelo_real": "Miata Mx5 1989"
+}
+
+
+
+
+
+
+
+
+
+
+
+

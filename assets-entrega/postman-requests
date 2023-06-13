@@ -1,0 +1,311 @@
+{
+	"info": {
+		"_postman_id": "dfedeb16-931a-4a2d-917b-26bc5fc01c41",
+		"name": "PROG-AVANZADA-I",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27454251"
+	},
+	"item": [
+		{
+			"name": "PARCIAL-2",
+			"item": [
+				{
+					"name": "/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/endpoints",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/endpoints",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"endpoints"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/features",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/features",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"features"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/all-cars",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/all-cars",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"all-cars"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/car/structure",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/car/structure",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"car",
+								"structure"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/car/by-name/{name}",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/car/by-name/mcqueen",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"car",
+								"by-name",
+								"mcqueen"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/car/by-color/{color}",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/car/by-color/rojo",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"car",
+								"by-color",
+								"rojo"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/car/by-brand/{brand}",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v1/car/by-brand/chevrolet",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"car",
+								"by-brand",
+								"chevrolet"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/v1/car",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"McQueen\", \r\n    \"apodo\": \"Stickers\", \r\n    \"actor_voz_original\": \"Owen Wilson\",\r\n    \"color_principal\": \"rojo\",\r\n    \"es_personaje_principal\": true,\r\n    \"link_foto_auto_pelicula\": \"https://drive.google.com/file/d/1zE62L7HIIoMjQ8r_reYjto8potGFfJlE/view?usp=sharing\",\r\n    \"link_foto_auto_realidad\": \"https://drive.google.com/file/d/1heWuwBvTNggR8SgSIn3uR3Y6FQo3kDNJ/view?usp=sharing\",\r\n    \"marca_real\": \"Chevrolet\",\r\n    \"modelo_real\": \"Corvette C5R\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/v1/car",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v1",
+								"car"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "CLASE-DB",
+			"item": [
+				{
+					"name": "/savePersona",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"nombre\": \"Gabi\", \"apellido\": \"Lopez\", \"dni\": 10,\r\n\"domicilios\":[{\"calle\":\"AV Rivadavia\",\"numero\":999, \"id\": 2}]}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/savePersona",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"savePersona"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/saveDomicilio",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"calle\": \"AV Pavone\", \"numero\": \"123\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/saveDomicilio",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"saveDomicilio"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/getPersonas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/getPersonas",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"getPersonas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/getPersonaByApellido",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/getPersonaByApellido/Lopez",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"getPersonaByApellido",
+								"Lopez"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
